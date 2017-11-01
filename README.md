@@ -1,6 +1,6 @@
   # Instanews App - NY Times api
 
-![Instanews screen shot](./public/images/instanews-screen-shot.png "Instanews")
+![Instanews screen shot](public/images/instanews-screen-shot.png "Instanews")
 
   The Instanews app was developed to showcase my abilities in working with ES6, JQuery and AJAX to retrieve up-to-date articles from the New York Times top-stories. 
 
